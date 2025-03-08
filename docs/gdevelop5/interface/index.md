@@ -1,33 +1,33 @@
 ---
-title: GDevelop interface
+العنوان: واجهة تطوير
 ---
-# GDevelop's UI interface
+# واجهة واجهة مستخدم GDevelop
 
-GDevelop's main game creation interface is divided into multiple tabs: the **Home Page** (1) and **Project Editors** (2).
+تنقسم واجهة إنشاء الألعاب الرئيسية في GDevelop إلى علامات تبويب متعددة: **الصفحة الرئيسية** (1) و **محررو المشاريع.** (2).
 
-![UI-tabs](UI-tabs.png)
+![علامات تبويب UI](UI-tabs.png)
 
 Watch an overview of GDevelop's layout:
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/bR2BjT7JG0k" frameborder="0" allowfullscreen></iframe>
-</div>
+<div.class="حاويات الفيديو">
+ <iFrame.src="https://www.youtube.com/embed/bR2BjT7JG0k" FrameBorder="0"الشاشة الكاملة المسموح بها></iFrame.> 
+</div.>
 
-## Home Page tab
+## الصفحة الرئيسية علامة التبويب
 
-The **Home Page** appears when you first launch GDevelop. It is composed of multiple sections:
+... **الصفحة الرئيسية**  يظهر عند إطلاق GDevelop لأول مرة. وهو يتألف من أقسام متعددة:
 
- 1. Get Started
- 2. Create
- 3. Teach
- 4. Shop
- 5. Learn
- 6. Play
+ 1. ابدأ!
+ 2. إنشاء.
+ 3. تعليم.
+ 4. تسوق.
+ 5. تعلم.
+ 6. اللعب.
 
 ![Create-Dashboard-dark](Create-Dashboard-dark.png)
 
 ### 1. Get Started
-The **Get Started** section offers resources and updates tailored for new users. To disable this section on startup, check "Don't show this screen on next startup" at the bottom of the page.
+... **Get Started** section offers resources and updates tailored for new users. To disable this section on startup, check "Don't show this screen on next startup" at the bottom of the page.
 
 ![Home-get-started](Home-get-started.png)
 
